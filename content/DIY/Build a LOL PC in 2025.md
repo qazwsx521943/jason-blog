@@ -1,5 +1,11 @@
-## Why?
-The last time I build a pc on my own was 8 years ago, although I have swapped some parts in my original build, I still think now is the time to upgrade my pc. And because I mainly use mac mini for productivity, I planned to build a window pc just for playing league & maybe serve as a small server.
+## Main Usage
+1. Play League Of Legends rank
+
+## My Preference
+Since the main usage is to just play League of Legends rank games, the hardware requirement is not that high, plus, I don't like the rgb accessories that make my pc case looks sexy, I opt to go for a low-key pc case. So in my case, I am aiming to build a LOW budget but functional PC that require no extensibility.
+1. Build a micro ATX PC that can be portable
+2. Budget: US$ 750
+3. MOBO has to support WIFI 6
 
 ## Here's the parts
 
