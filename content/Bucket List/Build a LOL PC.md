@@ -26,4 +26,5 @@ Since the main usage is to just play League of Legends rank games, the hardware 
 ### 1. Should have swap the power supply
 I should have swap the power supply with an extensible module supply, since the PC case is quite small and I don't have a lot of fancy stuff. the Deepcool power supply has default wires that cannot be remove base up your need, so it became tricky when trying to tidy up all the unused wires.
 
-### 2. The PC case supports USB 3.0, but when placing the mobo, it is impossible to connect the case's USB wire onto the mobo. Need to buy an 90 degree adaptor so I can use the front USB 3.0
+### 2. A USB 3.0 90-degree adapter (19 pin )
+Connecting the case's USB 3.0 wire to the mobo is impossible due to the Jonsbo C6 case's small size and lack of space for other wires. Therefore, a 90-degree adapter is required.
