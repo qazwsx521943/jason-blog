@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: About Me
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi I'm Jason. Welcome to my digital garden, a space where I can document memories from my everyday life. Here, you'll find highlights from my travels, reflections on life's big decisions, and a sprinkle of funny stories to brighten your day. My hope is that this little corner of the internet can bring a bit of sunshine and positive vibes to everyone who visits.
