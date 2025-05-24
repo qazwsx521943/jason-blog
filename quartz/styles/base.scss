@@ -111,13 +111,13 @@ a {
         content: "#";
       }
     }
-  }
 
-    // Add this inside the 'a' selector to target a.internal.alias
-  &.internal.alias {
-    color: var(--tertiary);
-    text-decoration: underline;
-    // Add any other styles you need
+        // Target internal alias links specifically
+    &.alias {
+      color: var(--tertiary, #58a6ff) !important; /* Use a visible color */
+      text-decoration: underline; /* Add underline for better visibility */
+      opacity: 1 !important; /* Ensure full opacity */
+    }
   }
 
 
