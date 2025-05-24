@@ -9,13 +9,16 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <pre>
-          {`
- ▖        ▌    ▄▖     ▌
- ▌▀▌▛▘▛▌▛▌ ▛▘  ▌ ▀▌▛▘▛▌█▌▛▌
-▙▌█▌▄▌▙▌▌▌ ▄▌  ▙▌█▌▌ ▙▌▙▖▌▌
-          `}
-        </pre>
+        <img
+          src={`${baseDir}/static/summur.png`}
+          alt={title}
+          style={{
+            height: "24px",
+            width: "auto",
+            marginRight: "8px",
+            verticalAlign: "middle"
+          }}
+        />
       </a>
     </h2>
   )
