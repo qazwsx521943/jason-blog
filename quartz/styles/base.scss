@@ -111,6 +111,12 @@ a {
         content: "#";
       }
     }
+        // Target internal alias links specifically
+    &.alias {
+      color: var(--tertiary); // Make the text visible
+      text-decoration: underline; // Optional: add underline for more visibility
+      // Add any other styles you want for alias links
+    }
   }
 
   &.external .external-icon {
