@@ -15,7 +15,8 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
           style={{
             width: "100%",
             height: "auto",
-            display: "block"
+            display: "block",
+            borderRadius: "8px" // Add border radius here
           }}
         />
       </a>
