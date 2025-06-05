@@ -1,3 +1,15 @@
+# Preparation
+## Essentials
+- [ ] Passport (Original + Photocopy + ID photo x 2)
+- [ ] Umbrella / Parasol
+- [ ] 3 x T-shirt, 3 x pants, 5 x socks, 5 x underwear, 1 x cap
+- [ ] Duffle x 1
+- [ ] Carry-on bag x 1
+
+## Nice to have
+
+# Souvenir
+- [ ] 
 # 🛫 6/12（四）｜出境日・抵達曼谷
 
 | 時間          | 行程              | 備註                                                                       |
